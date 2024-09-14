@@ -1,4 +1,4 @@
-# EHR_implementation_and_deployment_project
+# EHR implementation and deployment project
 This project takes a hypothetical scenario of Virginia Women's Center (VWC), a clinical setup with multiple locations, that wants to move from a paper-based workflow to EHR. 
 The project is an end-to-end high-level project plan discussing 
 1. Project goals
